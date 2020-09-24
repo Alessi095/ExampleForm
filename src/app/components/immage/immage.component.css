@@ -1,0 +1,10 @@
+@media(min-width:765px){
+
+.positioningImmage{
+    display:block;
+    position:absolute;
+    bottom:280px;
+    left:150px;
+}
+
+}
