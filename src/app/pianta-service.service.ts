@@ -7,8 +7,6 @@ import { Observable } from 'rxjs';
 })
 export class PiantaServiceService {
 
-  //ottima prova
-  
   constructor(private http: HttpClient) { }
 
   postData(data):Observable<any>{
